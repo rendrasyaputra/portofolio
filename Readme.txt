@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Portofolio Rendra Alpani Syaputra
+Kelas Prakerja Batch 13 - Belajar Langkah Fundamental untuk Menjadi Web Programmer
