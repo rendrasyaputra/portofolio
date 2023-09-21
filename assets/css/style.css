@@ -1079,9 +1079,9 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  padding: 15px;
+  padding: 5px;
   color: #f4f6fd;
-  font-size: 14px;
+  font-size: 10px;
   position: fixed;
   left: 0;
   bottom: 0;
